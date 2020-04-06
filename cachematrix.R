@@ -1,4 +1,4 @@
-## These functions help solve the issue of certain costly calculations like the inverse of a matrix by cacheing
+## These functions help solve the issue of certain costly calculations like the inverse of a matrix by caching
 
 ## Here we assume that supplied matrix is always invertible
 
